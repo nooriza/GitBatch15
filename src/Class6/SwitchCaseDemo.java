@@ -16,7 +16,6 @@ public class SwitchCaseDemo {
                 break;
             default:
                 System.out.println("Wrong country");
-
         }
     }
 }

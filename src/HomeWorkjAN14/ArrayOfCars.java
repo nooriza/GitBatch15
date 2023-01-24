@@ -9,5 +9,6 @@ public class ArrayOfCars {
             System.out.println(cars[i]);
 
         }
+
     }
 }

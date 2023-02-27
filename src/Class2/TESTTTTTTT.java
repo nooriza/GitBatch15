@@ -1,9 +1,7 @@
-package Practice1;
+package Class2;
 
-public class testvoid {
+public class TESTTTTTTT {
     public static void main(String[] args) {
 
     }
-
-    }
-
+}

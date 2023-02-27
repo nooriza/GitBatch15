@@ -1,2 +1,16 @@
-package ProjectJan24;public class MPractice3 {
+package ProjectJan24;
+
+public class MPractice3 {
+
+    /*
+
+     */
+
+    int arraySum(int[] arr){
+        int sum=0;
+        for(int num:arr){
+            sum+=num;
+        }
+        return sum;
+    }
 }

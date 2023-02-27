@@ -1,6 +1,5 @@
-package Calss11;
+package Class11;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 public class D2Array {

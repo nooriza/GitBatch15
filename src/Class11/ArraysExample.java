@@ -1,4 +1,4 @@
-package Calss11;
+package Class11;
 
 public class ArraysExample {
     public static void main(String[] args) {

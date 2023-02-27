@@ -1,6 +1,4 @@
-package Calss11;
-
-import java.util.Scanner;
+package Class11;
 
 public class Dogtester {
     public static void main(String[] args) {
